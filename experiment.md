@@ -1,0 +1,2 @@
+![image before masking](%7B555424D4-A1A8-43E5-9DDF-90A838FF4BD5%7D.png)
+![image after masking](%7B6F49A953-CE27-4C3C-AEC7-EBA273D4C05E%7D.png)
